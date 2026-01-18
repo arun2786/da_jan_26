@@ -1,0 +1,41 @@
+Data -> Data Analysis
+	Hospital, E-com, College, Share market, Restaurant
+
+	Data -> clean
+
+	Visualize
+
+Excel 
+PowerBI
+Database - SQL
+Python
+
+
+Python
+	- college 
+		- core python
+		- adv python
+		- gui
+		- web applications
+
+	- data analytics 
+		- core python 
+			- variables, loops, file handling, exception handling, python with database (consume database from python)
+		- libraries 
+			- numpy 
+				- std1-> math-48,eng-92,physics-82
+			- pandas
+				- 2d data
+			- matplotlib
+				- chart - visualize
+		- sql
+		- excel
+		- powerbi
+
+Web Developer / Tester
+	- core python
+	- adv python
+	- web servers
+	- monolithic vs microservice
+	- deployment - cloud, docker
+	- git 
