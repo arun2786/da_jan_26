@@ -1,0 +1,7 @@
+variable, print
+if else -> direction / decision
+Loops -> cycle -> if today is sunday else -  
+Nested Loops
+
+
+Problems
