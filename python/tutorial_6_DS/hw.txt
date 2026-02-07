@@ -1,0 +1,18 @@
+Leetcode 121 - https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+
+students = {
+    123: { 
+        name: "Ramesh", 
+        contacts: [678765, "ramesh@gamil.com"],
+        subjects: {"Math":67, "Physics":91, "English":83},
+        roll: 123,
+        enrollment_date: "15-07-2023"
+    },
+    next
+}
+
+Create 5 students and print report card
+
+items = [
+    {name: "Pizza", price: 120, quantity: 0, bill: 0, discount: 5}
+]
