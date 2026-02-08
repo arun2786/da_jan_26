@@ -1,0 +1,5 @@
+name, age, train_num, train_name, from, to, dis, class, date
+Dinesh,29,12345, Rajdhani Exp, New Delhi, Katra,1000, SL, 09/02/2026
+Ganesh,25,76543, Super Exp, Jaipur, Pune,800, 2AC, 19/03/2026
+Mahesh,31,89763,Jalendhar Exp,Pune,Jaipur,550,3AC,15/03/2026
+Kamlesh,35,91763,Malva Exp,Delhi,Ghaziabad,50,SL,25/03/2026
