@@ -1,0 +1,13 @@
+Generate data from: https://www.mockaroo.com/
+Order_ID,Customer,City,Amount,Status,Category
+
+
+1. Total order revenue
+2. Status wise analysis
+3. City wise analysis
+4. Category performance
+5. Customer based performance
+6. High order values
+7. Delivered in Pune 
+
+8. Export to csv 
