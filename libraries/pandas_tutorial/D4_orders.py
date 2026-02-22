@@ -17,7 +17,7 @@ sales_data = pd.read_csv('orders.csv')
 
 
 # print("Cancelled orders")
-# # print(sales_data['Status']=='Cancelled')
+# print(sales_data['Status']=='Cancelled')
 # print(sales_data[sales_data['Status']=='Cancelled'])
 
 
@@ -57,14 +57,18 @@ sales_data = pd.read_csv('orders.csv')
 # print(sales_data.sort_values('Amount', ascending=False))
 
 # total_sale_by_status = sales_data.groupby('Status')['Amount'].sum()
-# total_sale_by_city = sales_data.groupby('City')['Amount'].sum()
+# print(total_sale_by_status)
 
+# total_sale_by_city = sales_data.groupby('City')['Amount'].sum()
 # print(total_sale_by_city)
 
 
-sd = sales_data.groupby('Status')['Amount'].agg([
-    ('Total', 'sum'),
-    ('Average', 'mean')
-])
+# sd = sales_data.groupby('Status')['Amount'].agg([
+#     ('Total', 'sum'),
+#     ('Average', 'mean')
+# ])
 
-print(sd)
+# print(sd)
+
+
+# print(sales_data.groupby('City')['Amount'].sum())

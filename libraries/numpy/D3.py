@@ -30,7 +30,7 @@ final_price = ticket_price * 1.08 # with 8% gst
 
 booking_data = np.column_stack((booking_ids,distances, ticket_price, final_price))
 
-# print(booking_data)
+print(booking_data)
 
 print("===========Booking Analysis Report===========")
 print(f"Total Bookings: {len(booking_ids)}")
